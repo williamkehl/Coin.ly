@@ -1,0 +1,15 @@
+Coin.ly: Real-time Bitcoin, Namecoin (and more) data mashup
+
+The plan is to have a large, moveable, sortable datagrid that updates in real-time via ajax. The grid will display the current value of BTC vs other online currencies, pulled from their respective exchanges' APIs. The grid will also compare to USD, £, and other currencies based on current exchange rates.
+
+Virtual Currencies I would like to integrate:
+Bitcoin
+Namecoin
+Solidcoin
+GroupCoin
+DevCoin
+ixcoin
+i0coin
+testcoin
+ibcoin
+
